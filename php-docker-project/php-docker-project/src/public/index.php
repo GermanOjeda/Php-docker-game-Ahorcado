@@ -99,7 +99,7 @@ function dibujoAhorcado($intentos) {
 <head>
     <meta charset="UTF-8">
     <title>Ahorcado en PHP</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1>Juego del Ahorcado</h1>
